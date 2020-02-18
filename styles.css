@@ -1,0 +1,30 @@
+body {
+  background-image: url("https://photos1.blogger.com/blogger/7164/401/1600/happyfeetsfeer.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+h1 {
+  color: blue;
+  font-family: Lobster;
+}
+
+h2  {
+  font-family: "Comic Sans MS";
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  height: 256px;
+  width: 256px;
+}
+
+#images {
+  display: flex;
+  justify-content: space-between;
+}
